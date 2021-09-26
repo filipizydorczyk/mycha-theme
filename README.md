@@ -7,6 +7,7 @@ I ended up with just changing accent color to black and replacing gtk theme with
 ![](./screenshots/main-shell.png)
 ![](./screenshots/calendar.png)
 ![](./screenshots/search.png)
+![](./screenshots/window.png)
 
 Additionally I use some gnome shell extensions to get look like this:
 
