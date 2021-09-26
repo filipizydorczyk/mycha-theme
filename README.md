@@ -8,9 +8,17 @@ I ended up with just changing accent color to black and replacing gtk theme with
 ![](./screenshots/calendar.png)
 ![](./screenshots/search.png)
 
+Additionally I use some gnome shell extensions to get look like this:
+
+-   [Blur my Shell](https://github.com/aunetx/blur-my-shell)
+-   [Compiz alike magic lamp effect](https://github.com/hermes83/compiz-alike-magic-lamp-effect)
+-   [Compiz windows effect](https://github.com/hermes83/compiz-windows-effect)
+-   [Tray Icons Reloaded](https://github.com/MartinPL/Tray-Icons-Reloaded)
+
 # 👨‍🔧 Setup
 
 To build project run `./build.sh`.
+
 To install run `./install.sh`. You need to run `./build.sh` first in order to install.
 
 # 📃 To do
