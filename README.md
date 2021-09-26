@@ -26,3 +26,4 @@ To install run `./install.sh`. You need to run `./build.sh` first in order to in
 
 -   [ ] Fix paddings in calendar view
 -   [ ] Change color of time underline at the top bar
+-   [ ] Update gtk accet color also to `#333333`
