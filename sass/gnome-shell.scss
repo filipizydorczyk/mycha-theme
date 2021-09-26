@@ -1,0 +1,10 @@
+$variant: "light";
+$laptop: "true";
+$topbar: "light";
+$color: "sea";
+
+@import "./colors";
+@import "./drawing";
+@import "./common";
+@import "./widgets";
+@import "./extensions";
