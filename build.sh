@@ -15,4 +15,5 @@ cp ./src/gnome-shell/*.svg ./build/gnome-shell/
 cp ./src/gnome-shell/*.css ./build/gnome-shell/
 
 # ----------- GTK THEME -------------
-cp -r ./src/gtk-* ./build/
+cp -r ./src/gtk-2.0 ./build/
+sass --no-source-map ./src/gtk-3.0/gtk.scss ./build/gtk-3.0/gtk.css

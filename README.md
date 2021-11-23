@@ -1,6 +1,6 @@
 # ❓ What even is that repo
 
-This repository is just [Matcha Gtk Theme](https://github.com/vinceliuice/Matcha-gtk-theme). I basically took only necessery files from their repo and changed a little bit to adjust theme to my will.
+This repository is just [Matcha Gtk Theme](https://github.com/vinceliuice/Matcha-gtk-theme) and default gnome adwiata theme that I took soruce files from [gtk](https://gitlab.gnome.org/GNOME/gtk/-/tree/gtk-3-24/gtk/theme/Adwaita). I basically took only necessery files from these repos and changed a little bit to adjust theme to my will.
 
 I ended up with just changing accent color to black and replacing gtk theme with default gnome theme (Adwaita).
 
