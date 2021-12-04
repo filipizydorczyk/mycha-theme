@@ -27,4 +27,4 @@ To install run `./install.sh`. You need to run `./build.sh` first in order to in
 -   [ ] Fix paddings in calendar view
 -   [ ] Change color of time underline at the top bar
 -   [x] Update gtk accet color also to `#333333`
--   [ ] Fix chekc icons icon gtk theme
+-   [x] Fix chekc icons icon gtk theme
