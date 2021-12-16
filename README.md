@@ -15,6 +15,7 @@ Additionally I use some gnome shell extensions to get look like this:
 -   [Compiz alike magic lamp effect](https://github.com/hermes83/compiz-alike-magic-lamp-effect)
 -   [Compiz windows effect](https://github.com/hermes83/compiz-windows-effect)
 -   [Tray Icons Reloaded](https://github.com/MartinPL/Tray-Icons-Reloaded)
+-   [wireless-hid](https://github.com/vchlum/wireless-hid)
 
 # 👨‍🔧 Setup
 
@@ -25,5 +26,3 @@ To install run `./install.sh`. You need to run `./build.sh` first in order to in
 # 📃 To do
 
 -   [ ] Fix paddings in calendar view
--   [x] Update gtk accet color also to `#333333`
--   [x] Fix chekc icons icon gtk theme
