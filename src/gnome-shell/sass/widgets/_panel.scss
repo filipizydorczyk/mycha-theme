@@ -98,7 +98,7 @@ $panel_transition_duration: 250ms; // same as the overview transition duration
     }
 
     &#panelActivities {
-      -natural-hpadding: $base_padding * 3;
+      // -natural-hpadding: $base_padding * 3;
     }
   }
 
@@ -133,11 +133,11 @@ $panel_transition_duration: 250ms; // same as the overview transition duration
 
 // App Menu
 #appMenu {
-  spacing: $base_spacing;
+  spacing: 0;
   .label-shadow { color: transparent; }
 }
 
 #appMenu .panel-status-menu-box {
-  padding: 0 $base_padding;
+  padding: 0;
   spacing: $base_spacing;
 }
