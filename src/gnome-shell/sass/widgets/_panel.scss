@@ -88,6 +88,8 @@ $panel_transition_duration: 250ms; // same as the overview transition duration
 
     .panel-status-indicators-box .system-status-icon,
     .panel-status-menu-box .system-status-icon {
+      padding: 2px;
+      spacing: $base_padding;
       margin: 0;
     }
 
