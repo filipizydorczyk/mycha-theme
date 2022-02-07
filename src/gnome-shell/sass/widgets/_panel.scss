@@ -85,6 +85,10 @@ $panel_base_padding: $base_padding / 2;
       icon-size: $base_icon_size;
       padding: $panel_base_padding - 1px;
       margin: 0 $base_margin;
+
+      StLabel { 
+        padding: 0;
+      }
     }
 
     .panel-status-indicators-box .system-status-icon,
