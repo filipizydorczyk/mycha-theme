@@ -4,6 +4,7 @@
 $panel_corner_radius: 0;
 $panel_height: 2.2em;
 $panel_transition_duration: 250ms; // same as the overview transition duration
+$panel_base_padding: $base_padding / 2;
 
 #panel {
   background-color: $panel_bg_color;
@@ -38,8 +39,8 @@ $panel_transition_duration: 250ms; // same as the overview transition duration
   .panel-button {
     font-weight: bold;
     color: $panel_fg_color;
-    -natural-hpadding: $base_padding * 2;
-    -minimum-hpadding: $base_padding;
+    -natural-hpadding: $panel_base_padding * 2;
+    -minimum-hpadding: $panel_base_padding;
     transition-duration: 150ms;
     border: 0 none transparent;
     border-radius: 0;
@@ -82,14 +83,14 @@ $panel_transition_duration: 250ms; // same as the overview transition duration
     // status area icons
     .system-status-icon {
       icon-size: $base_icon_size;
-      padding: $base_padding - 1px;
+      padding: $panel_base_padding - 1px;
       margin: 0 $base_margin;
     }
 
     .panel-status-indicators-box .system-status-icon,
     .panel-status-menu-box .system-status-icon {
-      padding: 2px;
-      spacing: $base_padding;
+      padding: $panel_base_padding;
+      spacing: $panel_base_padding;
       margin: 0;
     }
 
@@ -100,7 +101,7 @@ $panel_transition_duration: 250ms; // same as the overview transition duration
     }
 
     &#panelActivities {
-      // -natural-hpadding: $base_padding * 3;
+      // -natural-hpadding: $panel_base_padding * 3;
     }
   }
 
