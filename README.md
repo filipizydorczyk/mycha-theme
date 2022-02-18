@@ -16,6 +16,7 @@ Additionally I use some gnome shell extensions to get look like this:
 -   [Compiz windows effect](https://github.com/hermes83/compiz-windows-effect)
 -   [Tray Icons Reloaded](https://github.com/MartinPL/Tray-Icons-Reloaded)
 -   [wireless-hid](https://github.com/vchlum/wireless-hid)
+-   [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - for window opening/closing effects (I use just TV option)
 
 # 👨‍🔧 Setup
 
