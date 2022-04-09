@@ -130,6 +130,10 @@ $app_grid_fg_color: #fff;
 .app-menu,
 .app-well-menu {
   max-width: 27.25em;
+
+  & .popup-menu-item .popup-menu-ornament{
+    padding: 0 $base_padding;
+  }
 }
 
 // App Grid pagination indicators
