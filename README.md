@@ -1,3 +1,7 @@
+I dropped this project since gnome is slowly getting rid of styling capabilities and I got used to default themes and I have no longer motivation to maintain small changes each uptade.
+
+---
+
 # ❓ What even is that repo
 
 This repository is just [Matcha Gtk Theme](https://github.com/vinceliuice/Matcha-gtk-theme) and default gnome adwiata theme that I took soruce files from [gtk](https://gitlab.gnome.org/GNOME/gtk/-/tree/gtk-3-24/gtk/theme/Adwaita). I basically took only necessery files from these repos and changed a little bit to adjust theme to my will.
